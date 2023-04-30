@@ -1,5 +1,3 @@
 ### Olá, sou a Bruna! 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbrunabrito&show_icons=true&theme=transparent)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbrunabrito&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbrunabrito&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbrunabrito&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
