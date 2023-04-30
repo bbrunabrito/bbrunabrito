@@ -3,7 +3,7 @@
 
 ### :chart_with_upwards_trend: GitHub Stats
 <a href="https://github.com/alan007br/alan007br">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbrunabrito&hide=html,tex&theme=dracula&text_color=c9cacc&langs_count=5" />
+  <img align="center" src="https://https://github-readme-stats.vercel.app/api/top-langs/?username=bbrunabrito&hide=html,tex&theme=dracula&text_color=c9cacc&langs_count=5" />
 </a>
 <a href="https://github.com/alan007br/alan007br">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bbrunabrito&show_icons=true&line_height=27&count_private=true&theme=dracula" alt="Alan's GitHub Stats" />
